@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**Akshita005-j/Akshita005-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Welcome to My GitHub!
 
-Here are some ideas to get you started:
+## 👋 Hi, I'm Akshita
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A passionate Frontend Developer from India
+
+- 🛰️ I’m currently working on **Web Development , React js**
+- 📬 How to reach me: akshitajangid2005@gmail.com
+- ⚡ Fun fact: I love building cute UI with clean code 💖
+
+## 🌐 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/akshita-jangid-a8574b360)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://www.instagram.com/casey._.25/)
+
+
+
