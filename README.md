@@ -44,13 +44,14 @@
 
 ###
 
-<h3 data-importer="text" align="left">GitHub Stats</h3>
+<h3 align="left">GitHub Stats</h3>
 
-###
+<div align="center">
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Akshita005-j/Akshita005-j/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://raw.githubusercontent.com/Akshita005-j/Akshita005-j/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=Akshita005-j&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshita005-j&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top languages" />
+
 </div>
 
 ###
