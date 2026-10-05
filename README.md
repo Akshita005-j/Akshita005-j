@@ -1,8 +1,11 @@
-<h1 data-importer="text" align="left">Hii 👋 I'm Akshita</h1>
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Akshita%20Jangid&fontColor=22c55e&fontSize=55&fontAlignY=38&animation=fadeIn" />
 
-<p data-importer="text" align="left">I'm a Data Analyst</p>
+</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+AI+%26+Data+Science+Student;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Turning+Data+into+Meaningful+Insights" alt="Typing SVG" />
+</p>
 
 ###
 
